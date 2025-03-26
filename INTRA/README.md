@@ -106,9 +106,16 @@ The following components are used in this project:
 PID (Proportional-Integral-Derivative) control helps adjust motor speed based on sensor input to maintain the robot’s stability.  
 
 ### **PID Formula Used**  
-\[
-\text{Correction} = (K_p \times \text{Error}) + (K_d \times \text{Derivative}) + (K_i \times \text{Integral})
-\]
+Correction=(K 
+p
+​
+ ×Error)+(K 
+d
+​
+ ×Derivative)+(K 
+i
+​
+ ×Integral)
 Where:  
 - **Kp (Proportional Gain)** → Reacts to current error  
 - **Ki (Integral Gain)** → Corrects accumulated past errors (set to 0 in our case)  
