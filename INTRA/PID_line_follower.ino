@@ -1,6 +1,3 @@
-// Master Adaptive PID Line Follower with Smooth Turns,
-// T-Junction LED & U-Turn Handling
-
 // ===================
 // Motor Driver Pins (L298N)
 // ===================
